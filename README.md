@@ -1,7 +1,7 @@
 # TF_ALB-PathBasedRouting_Public
 ## **Description Details:**
 
-Este repositorio guía en la implementación de enrutamiento basado en el contexto en el Balanceador de Carga de Aplicaciones (ALB) de AWS utilizando Terraform. Se implementa una serie de pasos para dirigir diferentes rutas a diferentes destinos dentro de la infraestructura de AWS, incluyendo redirecciones HTTP a HTTPS y respuestas fijas para rutas específicas. Aprende a configurar, implementar y probar este escenario de enrutamiento avanzado en tu infraestructura AWS.
+This repository guides you through implementing context-aware routing in the AWS Application Load Balancer (ALB) using Terraform. A series of steps are implemented to direct different routes to different destinations within the AWS infrastructure, including HTTP to HTTPS redirects and fixed responses for specific routes. Learn how to configure, deploy, and test this advanced routing scenario on your AWS infrastructure.
 
 # AWS ALB Context Path based Routing using Terraform
 
